@@ -1,1 +1,2 @@
 # smierc-projekt
+# smierc-projekt
